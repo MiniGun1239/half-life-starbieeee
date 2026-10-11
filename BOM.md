@@ -15,7 +15,7 @@
 | [Seeed Studio ESP32 C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Codehouse thing | 1 | $5.00 | $5.00 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | [Header Pins](https://besomi.com/ae_en/cxhx0010-male-header-1x40-straight-2-54mm-pitch-single-row-pin-connector.html) | Connecting the components to the pcb | 1 | $1.00 | $1.00 | [Besomi](https://besomi.com/ae_en/cxhx0010-male-header-1x40-straight-2-54mm-pitch-single-row-pin-connector.html) |
 | **Parts subtotal** | — | — | — | **$6.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$6.00** | — |
+| **Tax & shipping** | — | — | — | **$4.00** | — |
+| **Total** | — | — | — | **$10.00** | — |
 
-$24.00 left of the tier's funding.
+$20.00 left of the tier's funding.
