@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 7.5h | 3 |
+| Week 1 | Tier 1 | 7h | 3 |
 
 ## Contents
 
@@ -83,7 +83,7 @@ I followed the tutorial to the dot, will add changes later tho, i dont plant thi
 
 ### 2026-10-11 – Early in the morning, will try to finish the halflife grind!
 
-**2.5h**
+**2h**
 
 Early in the morning, will try to finish the halflife grind!
 
