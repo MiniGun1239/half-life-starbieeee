@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 13.74h | 6 |
+| Week 1 | Tier 1 | 14.26h | 6 |
 
 ## Contents
 
@@ -193,7 +193,7 @@ Here are the final pics:
 
 ### 2026-10-11 – Now to add the firmware... i never used arduino ide before...
 
-**0.5h**
+**1.02h**
 
 Now to add the firmware... i never used arduino ide before...
 
@@ -209,3 +209,5 @@ I have no clue what I did in arduino ide, hopefully that is enough for this idk
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9PLzhZLfhlSP1FrprpdBFqEa0BvVL95l/5194345d58ca136129a8e965bc309c41898a5f836641428e601bfe8a41ddfeb8.png)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9PLzhZLfhlSP1FrprpdBFqEa0BvVL95l/7ff5e8f9a72843d41464a65aab0b54e32ac2401803225c68968d12185500c114.png)
+
+[Timelapse](https://lookout.hackclub.com/api/media/ce0800b5-347e-45c0-ae4a-85c3e32bc657/video.mp4)
