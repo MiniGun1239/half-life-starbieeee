@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 15.04h | 8 |
+| Week 1 | Tier 1 | 14.54h | 8 |
 
 ## Contents
 
@@ -195,7 +195,7 @@ Here are the final pics:
 
 ### 2026-10-11 – Now to add the firmware... i never used arduino ide before...
 
-**1.02h**
+**0.52h**
 
 Now to add the firmware... i never used arduino ide before...
 
