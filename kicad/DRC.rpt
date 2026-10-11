@@ -1,0 +1,87 @@
+** Drc report for half-life-starbieee.kicad_pcb **
+** Created on 2026-10-11T16:16:24 **
+** Report includes: Errors, Warnings **
+
+** Found 18 DRC violations **
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(131.5000 mm, 90.9920 mm): Footprint J1
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(131.5000 mm, 90.9920 mm): Footprint J1
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(166.8800 mm, 89.6000 mm): Segment of U2 on F.Silkscreen
+    @(167.3500 mm, 93.0000 mm): Reference field of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.9910 mm, 67.1100 mm): Segment of U1 on F.Silkscreen
+    @(138.1200 mm, 67.5450 mm): Pad 1 [unconnected-(U1-D0-Pad1)] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.9910 mm, 67.1100 mm): Segment of U1 on F.Silkscreen
+    @(135.5800 mm, 67.5450 mm): Pad 2 [/DHT11_DAT] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.9910 mm, 67.1100 mm): Segment of U1 on F.Silkscreen
+    @(133.0400 mm, 67.5450 mm): Pad 3 [/B1] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.9910 mm, 67.1100 mm): Segment of U1 on F.Silkscreen
+    @(130.5000 mm, 67.5450 mm): Pad 4 [/B2] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.9910 mm, 67.1100 mm): Segment of U1 on F.Silkscreen
+    @(127.9600 mm, 67.5450 mm): Pad 5 [/SCL] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.9910 mm, 67.1100 mm): Segment of U1 on F.Silkscreen
+    @(125.4200 mm, 67.5450 mm): Pad 6 [/SDA] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.9910 mm, 67.1100 mm): Segment of U1 on F.Silkscreen
+    @(122.8800 mm, 67.5450 mm): Pad 7 [unconnected-(U1-D6-Pad7)_1] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.9910 mm, 84.8900 mm): Segment of U1 on F.Silkscreen
+    @(122.8800 mm, 84.4550 mm): Pad 8 [/RE1_B] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.9910 mm, 84.8900 mm): Segment of U1 on F.Silkscreen
+    @(125.4200 mm, 84.4550 mm): Pad 9 [/RE1_A] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.9910 mm, 84.8900 mm): Segment of U1 on F.Silkscreen
+    @(127.9600 mm, 84.4550 mm): Pad 10 [unconnected-(U1-D9/BOOT-Pad10)] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.9910 mm, 84.8900 mm): Segment of U1 on F.Silkscreen
+    @(130.5000 mm, 84.4550 mm): Pad 11 [/RE_B3] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.9910 mm, 84.8900 mm): Segment of U1 on F.Silkscreen
+    @(133.0400 mm, 84.4550 mm): Pad 12 [+3.3V] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.9910 mm, 84.8900 mm): Segment of U1 on F.Silkscreen
+    @(135.5800 mm, 84.4550 mm): Pad 13 [GND] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(121.9910 mm, 84.8900 mm): Segment of U1 on F.Silkscreen
+    @(138.1200 mm, 84.4550 mm): Pad 14 [+5V] of U1 on F.Cu
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6350 mm)
+    Rule: board setup constraints silk text height; warning
+    @(130.3750 mm, 65.7500 mm): Reference field of U1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
