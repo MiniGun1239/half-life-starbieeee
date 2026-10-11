@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 14.24h | 5 |
+| Week 1 | Tier 1 | 13.24h | 5 |
 
 ## Contents
 
@@ -157,11 +157,13 @@ current state:
 
 ### 2026-10-11 – Tried to draw boundaries for the pcb, kicad crashed again...
 
-**3.07h**
+**2.07h**
 
 Tried to draw boundaries for the pcb, kicad crashed again...
 
 ---
+
+Forgot to start lapse AGAIN.
 
 the problem was wayland, so i switched to x11. and i made the outline les goo, its designed like a rocketttt
 
@@ -176,5 +178,14 @@ I arranged the stuff, and routed gnd on the blue layer
 ---
 
 Lmao i just looked at it, that aint a rocket at alll :skulk:
+
+---
+
+Its fully routed now!!!
+Here are the final pics:
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9PLzhZLfhlSP1FrprpdBFqEa0BvVL95l/3b34690d82c93a818cc905bde9247bdcbd6bd7cafd0e1035a32de4bb1d077ef8.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9PLzhZLfhlSP1FrprpdBFqEa0BvVL95l/546a03d85c45b7e2cb0b9d570cf406dd51554fdc66a0831bee46d4bccbe76632.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/83ffadca-531a-417b-b50c-6045d6305e22/video.mp4)
